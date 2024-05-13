@@ -22,6 +22,6 @@ dadaptation==1.5
 lion-pytorch==0.0.6
 lycoris-lora==0.1.4
 xformers==0.0.22.post7
-jax==0.2.17 
-jaxlib==0.1.69+cuda110
+jax==0.4.23
+jaxlib==0.4.23
 .
